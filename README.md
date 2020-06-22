@@ -26,6 +26,8 @@ A Event-based video recontruction for a chinese calendar.<br>
 A Event-based video recontruction for the Shanghai Jiaotong Gate.<br>
 
 ## Getting Started
+* Prerequiisites<br>
+Install PyTorch 1.3.0 (or higher) and TorchVision<br>
 
 * Clone this repository <br>
 ```java
