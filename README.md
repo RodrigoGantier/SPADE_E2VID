@@ -28,7 +28,7 @@ A Event-based video recontruction for the Shanghai Jiaotong Gate.
 ## Getting Started
 * Clone this repository, download the evaluation datasets and weigths. your folder structure should be as follows:
 
->      *
+>      * SPADE_E2VID
 >      * cedric_firenet
 >	     * dvs_datasets
 >	     * models
