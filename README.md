@@ -27,7 +27,12 @@ A Event-based video recontruction for the Shanghai Jiaotong Gate.<br>
 
 ## Getting Started
 
-* Clone this repository, download the evaluation datasets and weigths. your directory tree should be as follows:<br>
+* Clone this repository <br>
+```java
+git clone https://github.com/RodrigoGantier/SPADE_E2VID.git
+
+```
+* Download the evaluation datasets and weigths. your directory tree should be as follows:<br>
 
 
 ├── SPADE_E2VID<br>
