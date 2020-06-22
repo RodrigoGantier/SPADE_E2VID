@@ -103,12 +103,12 @@ if you want to download one by one, the individual links are below<br>
 
 
 ## Network weigths
-[SPADE_E2VID weight](https://drive.google.com/file/d/1mOdIIJgZm2HiDk-dl40abrHEWeAtDXD0/view?usp=sharing)<br>
-[SPADE_E2VID non-polarity weight](https://drive.google.com/file/d/1dK6VEOTEeQ6_g4-cFUA0R80Lr84ktTXe/view?usp=sharing)<br>
-[E2VID* weight](https://drive.google.com/file/d/1xrV8CFt45EBYT3aZihX7SJCOjAbjbd8h/view?usp=sharing)<br>
-[E2VID_lightweight weight](https://drive.google.com/file/d/1MQXdVMHY0fb7c9QrP0eWPBS_uJQrayyZ/view?usp=sharing)<br>
-[E2VID weight](https://drive.google.com/file/d/1q0rnm8OUIHk-II39qpxhp0tqBfIOK-7M/view?usp=sharing)<br>
-[FireNet weight](https://drive.google.com/file/d/1Uqj8z8pDnq78JzoXdw-6radw3RPAyUPb/view?usp=sharing)<br>
+[SPADE_E2VID](https://drive.google.com/file/d/1mOdIIJgZm2HiDk-dl40abrHEWeAtDXD0/view?usp=sharing)<br>
+[SPADE_E2VID_ABS](https://drive.google.com/file/d/1dK6VEOTEeQ6_g4-cFUA0R80Lr84ktTXe/view?usp=sharing)<br>
+[E2VID_](https://drive.google.com/file/d/1xrV8CFt45EBYT3aZihX7SJCOjAbjbd8h/view?usp=sharing)<br>
+[E2VID_lightweight](https://drive.google.com/file/d/1MQXdVMHY0fb7c9QrP0eWPBS_uJQrayyZ/view?usp=sharing)<br>
+[E2VID](https://drive.google.com/file/d/1q0rnm8OUIHk-II39qpxhp0tqBfIOK-7M/view?usp=sharing)<br>
+[FireNet](https://drive.google.com/file/d/1Uqj8z8pDnq78JzoXdw-6radw3RPAyUPb/view?usp=sharing)<br>
 
 ## Trainind dataset
 
