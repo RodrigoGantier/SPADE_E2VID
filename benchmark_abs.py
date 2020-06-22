@@ -330,7 +330,7 @@ def main(arg):
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
-    parser.add_argument('--root_dir', type=str, default='/media/rodrigo/ubuntu/e2vid/public')
+    parser.add_argument('--root_dir', type=str, default='/path/to/dir/ESPADE_E2VID')
     args = parser.parse_args()
     main(args)
 
