@@ -26,8 +26,9 @@ Non-polarity Event-based video recontruction (Chinese Calendar).<br>
 Non-polarity Event-based video recontruction (the Shanghai Jiaotong Gate).<br>
 
 ## Getting Started
-* Prerequiisites<br>
-Install PyTorch 1.3.0 (or higher) and TorchVision<br>
+* Prerequisites<br>
+Install PyTorch 1.3.0 (or higher), TorchVision, kornia, opencv, tqdm, pathlib, pandas, skimage, numpy<br>
+
 
 * Clone this repository <br>
 ```java
