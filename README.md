@@ -12,7 +12,7 @@ Event to video reconstruction with spade module
 
 
 ## Overview
-------------------------
+
 This repository contains the CODE for SPADE_E2VID. SPADE_E2VID uses a ConvLSTM and SPADE layers to reconstruct event-based videos. Our model compared with E2VID, have better reconstruction quality in early frames also has better contrast for all the reconstructios. We provide the code for training and testing.
 
 
@@ -26,7 +26,7 @@ A Event-based video recontruction for a chinese calendar.<br>
 A Event-based video recontruction for the Shanghai Jiaotong Gate.<br>
 
 ## Getting Started
-------------------------
+
 * Clone this repository, download the evaluation datasets and weigths. your directory tree should be as follows:<br>
 
 ├── SPADE_E2VID<br>
@@ -55,7 +55,7 @@ A Event-based video recontruction for the Shanghai Jiaotong Gate.<br>
 │   └── spynet<br>
 
 ## Evaluation datasets
-------------------------
+
 
 [DVS datasets](https://drive.google.com/file/d/1JH4QuJsrb2s67PYzueXRPQiCqJomnNuB/view?usp=sharing)<br>
 if you want to download one by one, the individual links are below<br>
@@ -69,7 +69,7 @@ if you want to download one by one, the individual links are below<br>
 
 
 ## Non-polarity evaluation datasets
-------------------------
+
 
 [bund_1 dataset](https://drive.google.com/drive/folders/1KSGpOunVv47hU6nG9gOsEqxd6nfV7o9Q?usp=sharing)<br>
 [bund_2 dataset](https://drive.google.com/drive/folders/1db4drgonbS-T6CSVxj4b8WeIGybGR30F?usp=sharing)<br>
@@ -85,7 +85,7 @@ if you want to download one by one, the individual links are below<br>
 [FireNet weight](https://drive.google.com/file/d/1Uqj8z8pDnq78JzoXdw-6radw3RPAyUPb/view?usp=sharing)<br>
 
 ## Trainind dataset
-------------------------
+
 
 The Training dataset can be downkiad fron [this](https://drive.google.com/file/d/1usC0fsnRohMCMJSngMpLPb70w5_nYAeE/view?usp=sharing) link, are just 30 samples from the origianl 1000 samples
 
