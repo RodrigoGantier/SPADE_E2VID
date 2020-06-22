@@ -29,10 +29,10 @@ A Event-based video recontruction for the Shanghai Jiaotong Gate.
 * Clone this repository, download the evaluation datasets and weigths. your directory tree should be as follows:
 
 >*
-> ├── acpi
-> │   ├── cedric_firenet
-> │   ├── dvs_datasets
-> │   │   ├── bound_1
+>* ├── acpi
+>  │   ├── cedric_firenet
+>  │   ├── dvs_datasets
+>  │   │   ├── bound_1
 >
 >│   │   ├── bound_2
 >
