@@ -201,10 +201,8 @@ def warping(x, flo):
 
 
 if __name__ == '__main__':
-	# tenFirst = torch.FloatTensor(numpy.array(PIL.Image.open(arguments_strFirst))[:, :, ::-1].transpose(2, 0, 1).astype(numpy.float32) * (1.0 / 255.0))
-	# tenSecond = torch.FloatTensor(numpy.array(PIL.Image.open(arguments_strSecond))[:, :, ::-1].transpose(2, 0, 1).astype(numpy.float32) * (1.0 / 255.0))
-	img0 = '/media/rodrigo/ubuntu/temporal_loss_with_optical_flow/image/org/0000.png'
-	img1 = '/media/rodrigo/ubuntu/temporal_loss_with_optical_flow/image/org/0001.png'
+	img0 = '/path/to/image/org/0000.png'
+	img1 = '/path/to/image/org/0001.png'
 	tenFirst = torch.FloatTensor(numpy.array(PIL.Image.open(img0))[:, :, ::-1].transpose(2, 0, 1).astype(numpy.float32) * (1.0 / 255.0))
 	tenSecond = torch.FloatTensor(numpy.array(PIL.Image.open(img1))[:, :, ::-1].transpose(2, 0, 1).astype(numpy.float32) * (1.0 / 255.0))
 
@@ -220,12 +218,6 @@ if __name__ == '__main__':
 	ax[0].imshow((w00 * noc_mask2)[0].permute(1, 2, 0).detach().cpu().numpy()[:, :, ::-1])
 	ax[1].imshow((tenSecond[None].cuda() * noc_mask2)[0].permute(1, 2, 0).detach().cpu().numpy()[:, :, ::-1])
 
-	# objOutput = open(arguments_strOut, 'wb')
-	#
-	# numpy.array([ 80, 73, 69, 72 ], numpy.uint8).tofile(objOutput)
-	# numpy.array([ tenOutput.shape[2], tenOutput.shape[1] ], numpy.int32).tofile(objOutput)
-	# numpy.array(tenOutput.numpy().transpose(1, 2, 0), numpy.float32).tofile(objOutput)
-	#
-	# objOutput.close()
+	
 	print('finish')
 # end
