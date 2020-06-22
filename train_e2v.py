@@ -12,7 +12,7 @@ import os.path as osp
 
 def dataset(args):
 
-    trainpath = osp.join(args.root_dir, 'coco_dvs2_train')
+    trainpath = osp.join(args.root_dir, 'evs')
     tr = DataSet(trainpath, train=True, seq_len=args.seq_len, abs_e=args.abs_e,
                  norm_e=args.norm_e, crop_x=128, crop_y=128, img_ch=3)
 
