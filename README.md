@@ -118,4 +118,6 @@ if you want to download one by one, the individual links are below<br>
 
 The Training dataset can be downkiad fron [this](https://drive.google.com/file/d/1usC0fsnRohMCMJSngMpLPb70w5_nYAeE/view?usp=sharing) link, are just 30 samples from the origianl 1000 samples
 
+* NOTE: All the data is about 17.1 GB
+
 
