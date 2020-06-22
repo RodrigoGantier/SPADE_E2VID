@@ -68,7 +68,7 @@ python3 test.py --root_dir /path/to/data/SPADE_E2VID --data_n 0
 ```
 To train ESPADE_E2VID you can run:
 ```java
-python3 train_e2v.py --root_dir /media/rodrigo/ubuntu/e2v_public --bs 2
+python3 train_e2v.py --root_dir /path/to/data/e2v_public --bs 2
 
 ```
 
