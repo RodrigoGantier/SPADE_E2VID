@@ -2,6 +2,8 @@
 Event to video reconstruction with spade module
 
 - [Evaluation datasets](##evaluation-datasets)
+- [Non-polarity evaluation datasets](##non-polarity-evaluation-datasets)
+- [Network weigths](##Network weigths)
 
 
 
@@ -20,7 +22,7 @@ office_zigzag dataset: https://drive.google.com/drive/folders/1Q00eskBZSy--Q-DkH
 dynamic_6dof dataset: https://drive.google.com/drive/folders/1bMHNB8AtAqgeGc8AXCukAiXP8MyvSWT-?usp=sharing
 
 
-Non-polarity evaluation datasets
+## Non-polarity evaluation datasets
 
 bund_1 dataset: https://drive.google.com/drive/folders/1KSGpOunVv47hU6nG9gOsEqxd6nfV7o9Q?usp=sharing
 
@@ -29,6 +31,7 @@ bund_2 dataset: https://drive.google.com/drive/folders/1db4drgonbS-T6CSVxj4b8WeI
 bund_3 dataset: https://drive.google.com/drive/folders/17OQUgnd2EUwugTMjLf2DSWUOfgSI11ea?usp=sharing
 
 
+## Network weigths
 SPADE_E2VID weight: https://drive.google.com/file/d/1mOdIIJgZm2HiDk-dl40abrHEWeAtDXD0/view?usp=sharing
 
 SPADE_E2VID non-polarity weight: https://drive.google.com/file/d/1dK6VEOTEeQ6_g4-cFUA0R80Lr84ktTXe/view?usp=sharing
