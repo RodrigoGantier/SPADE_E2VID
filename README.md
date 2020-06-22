@@ -3,7 +3,7 @@ Event to video reconstruction with spade module
 
 - [Evaluation datasets](##evaluation-datasets)
 - [Non-polarity evaluation datasets](##non-polarity-evaluation-datasets)
-- [Network weigths](##network weigths)
+- [Network weigths](##network-weigths)
 
 
 
@@ -46,6 +46,6 @@ Event to video reconstruction with spade module
 [FireNet weight](https://drive.google.com/file/d/1Uqj8z8pDnq78JzoXdw-6radw3RPAyUPb/view?usp=sharing)
 
 
-[Training dataset](https://drive.google.com/file/d/1usC0fsnRohMCMJSngMpLPb70w5_nYAeE/view?usp=sharing), are just 30 samples from the origianl 1000 samples
+The Training dataset can be downkiad frin [here](https://drive.google.com/file/d/1usC0fsnRohMCMJSngMpLPb70w5_nYAeE/view?usp=sharing), are just 30 samples from the origianl 1000 samples
 
 
