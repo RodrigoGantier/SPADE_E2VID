@@ -28,14 +28,12 @@ A Event-based video recontruction for the Shanghai Jiaotong Gate.
 ## Getting Started
 * Clone this repository and download all the links:
 
->      cedric_firenet;
->	     dvs_datasets;
->	     models;
->	     * Item 2.1;
->	     * Item 2.2;
->	    * Item 3
->		   * Item 3.1;
->			  * Item 3.1.1;
+>      *-cedric_firenet;
+>	     *-dvs_datasets;
+>	     *-models;
+>	     *-my_org_model;
+>	     *-org_e2vid;
+>	     *-spynet;
 
 ## Evaluation datasets
 
