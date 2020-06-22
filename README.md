@@ -26,7 +26,7 @@ A Event-based video recontruction for the Shanghai Jiaotong Gate.
 
 
 ## Getting Started
-* Clone this repository, download the evaluation datasets and weigths. your folder structure should be as follows:
+* Clone this repository, download the evaluation datasets and weigths. your directory tree should be as follows:
 
 >      * SPADE_E2VID
 >	      * dvs_datasets
@@ -39,6 +39,10 @@ A Event-based video recontruction for the Shanghai Jiaotong Gate.
 
 
 ## Evaluation datasets
+
+[DVS datasets](https://drive.google.com/file/d/1JH4QuJsrb2s67PYzueXRPQiCqJomnNuB/view?usp=sharing)
+
+if you want to download one by one, the individual links are below
 
 [calibration dataset](https://drive.google.com/drive/folders/1ctfatJRZlEMx0xdthKzhpjRU0PYu6QyS?usp=sharing)
 
