@@ -12,7 +12,7 @@ import os.path as osp
 
 def dataset(args):
 
-    trainpath = osp.join(args.root_dir, 'evs')
+    trainpath = osp.join(args.root_dir, 'evs/evs_2')
     tr = DataSet(trainpath, train=True, seq_len=args.seq_len, abs_e=args.abs_e,
                  norm_e=args.norm_e, crop_x=128, crop_y=128, img_ch=3)
 
@@ -71,7 +71,7 @@ def main(args):
             ssim_e.append(compare_ssim(pred, y, dynamic_range=1, multichannel=False))
             mse_e.append(compare_mse(pred, y))
 
-            if (i + 1) % 50 == 0:
+            if (i + 1) % 10 == 0:
                 netG = netG.eval()
                 with torch.no_grad():
                     stats = None
