@@ -58,6 +58,7 @@ git clone https://github.com/RodrigoGantier/SPADE_E2VID.git
 │   │   ├── SPADE_E2VID_2.pth<br>
 │   │   └── SPADE_E2VID_ABS.pth<br>
 │   ├── my_org_model<br>
+│   ├── evs<br>
 │   ├── org_e2vid<br>
 │   ├── res<br>
 │   └── spynet<br>
