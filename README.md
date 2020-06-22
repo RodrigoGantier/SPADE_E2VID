@@ -1,8 +1,7 @@
 # SPADE_E2VID
 Event to video reconstruction with spade module
 
-- [Evaluation datasets](## Evaluation datasets)
-  -[calibration dataset](calibration dataset)
+- [Evaluation datasets](##evaluation-datasets)
 
 
 
