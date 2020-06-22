@@ -5,6 +5,7 @@ Event to video reconstruction with spade module
 
 - [Overview](##overview)
 - [Getting Started](##getting-started)
+- [Code](##code)
 - [Evaluation datasets](##evaluation-datasets)
 - [Non-polarity evaluation datasets](##non-polarity-evaluation-datasets)
 - [Network weigths](##network-weigths)
