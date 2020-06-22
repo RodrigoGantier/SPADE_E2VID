@@ -80,7 +80,7 @@ To train ESPADE_E2VID you can run:
 python3 train_e2v.py --root_dir /path/to/data/e2v_public --bs 2
 
 ```
-
+Tested in ubuntu 18.04.4 LTS 
 
 ## Evaluation datasets
 
