@@ -30,9 +30,7 @@ A Event-based video recontruction for the Shanghai Jiaotong Gate.
 
 
 >├── acpi
->
 >│   ├── cedric_firenet
->
 >│   ├── dvs_datasets
 >
 >│   │   ├── bound_1
