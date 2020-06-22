@@ -20,10 +20,10 @@ This repository contains the CODE for SPADE_E2VID. SPADE_E2VID uses a ConvLSTM a
 A comparizon for SPADE_E2VID (our model) and E2VID.<br>
 
 ![SPADE_E2VID calendar](https://github.com/RodrigoGantier/SPADE_E2VID/blob/master/res/calendar.gif)<br>
-A Event-based video recontruction for a chinese calendar.<br>
+Non-polarity Event-based video recontruction (Chinese Calendar).<br>
 
 ![SPADE_E2VID Shanghai Jiaotong Gate](https://github.com/RodrigoGantier/SPADE_E2VID/blob/master/res/jiaodamen.gif)<br>
-A Event-based video recontruction for the Shanghai Jiaotong Gate.<br>
+Non-polarity Event-based video recontruction (the Shanghai Jiaotong Gate).<br>
 
 ## Getting Started
 * Prerequiisites<br>
