@@ -202,7 +202,7 @@ def main(arg):
 
     models_list = list()
 
-    models_list.append([osp.join(root_dir, 'models/E2VID_*.pth'), 0])
+    models_list.append([osp.join(root_dir, 'models/E2VID_.pth'), 0])
     models_list.append([osp.join(root_dir, 'models/E2VID_lightweight.pth.tar'), 1])
     models_list.append([osp.join(root_dir, 'models/SPADE_E2VID.pth'), 2])
     models_list.append([osp.join(root_dir, 'models/firenet_1000.pth.tarr'), 3])
