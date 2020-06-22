@@ -13,7 +13,6 @@ import os.path as osp
 def dataset(args):
 
     trainpath = osp.join(args.root_dir, 'coco_dvs2_train')
-    trainpath = '/media/rodrigo/Samsumg/coco_dvs2_train'
     tr = DataSet(trainpath, train=True, seq_len=args.seq_len, abs_e=args.abs_e,
                  norm_e=args.norm_e, crop_x=128, crop_y=128, img_ch=3)
 
@@ -124,7 +123,7 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('--root_dir',
                         type=str,
-                        default='/media/rodrigo/ubuntu/e2v_public',
+                        default='/path/to/dir/ESPADE_E2VID',
                         help='Path to dir')
     parser.add_argument('--bs', type=int, default=1, help='Batch size')
     parser.add_argument('--epochs', type=int, default=170, help='Number of epochs')
