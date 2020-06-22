@@ -6,7 +6,9 @@ Event to video reconstruction with spade module
 - [Network weigths](##network-weigths)
 
 
-
+![SPADE_E2VID calendar](https://github.com/RodrigoGantier/SPADE_E2VID/blob/master/res/calendar.gif)
+![SPADE_E2VID Shanghai Jiaotong Gate](https://github.com/RodrigoGantier/SPADE_E2VID/blob/master/res/jiaodamen.gif)
+![SPADE_E2VID vs E2VID](https://github.com/RodrigoGantier/SPADE_E2VID/blob/master/res/compare.gif)
 
 ## Evaluation datasets
 
