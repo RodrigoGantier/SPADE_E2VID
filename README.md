@@ -59,17 +59,17 @@ A Event-based video recontruction for the Shanghai Jiaotong Gate.<br>
 To run data evaluation with all models use the following code:
 ```java
 python3 benchmark.py --root_dir /path/to/data/SPADE_E2VID
-}
+
 ```
 To run data evaluation with only one dataset and SPADE_E2VID, (you can choose fron 0 to 5):
 ```java
 python3 test.py --root_dir /path/to/data/SPADE_E2VID --data_n 0
-}
+
 ```
 To train ESPADE_E2VID you can run:
 ```java
 python3 train_e2v.py --root_dir /media/rodrigo/ubuntu/e2v_public --bs 2
-}
+
 ```
 
 
