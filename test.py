@@ -67,7 +67,7 @@ def main(arg):
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
-    parser.add_argument('--root_dir', type=str, default='/media/rodrigo/ubuntu/e2v_public')
+    parser.add_argument('--root_dir', type=str, default='/path/to/dir/SPADE_E2VID')
     parser.add_argument('--data_n', type=int, default=0, help='Possible Choose 1 to 6')
     args = parser.parse_args()
     main(args)
