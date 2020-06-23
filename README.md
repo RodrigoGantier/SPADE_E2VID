@@ -68,17 +68,17 @@ git clone https://github.com/RodrigoGantier/SPADE_E2VID.git
 # Code
 To run data evaluation with all models use the following code:
 ```java
-python3 benchmark.py --root_dir /path/to/data/SPADE_E2VID
+python benchmark.py --root_dir /path/to/data/SPADE_E2VID
 
 ```
 To run data evaluation with only one dataset and SPADE_E2VID, (you can choose fron 0 to 5):
 ```java
-python3 test.py --root_dir /path/to/data/SPADE_E2VID --data_n 0
+python test.py --root_dir /path/to/data/SPADE_E2VID --data_n 0
 
 ```
 To train ESPADE_E2VID you can run:
 ```java
-python3 train_e2v.py --root_dir /path/to/data/e2v_public --bs 2
+python train_e2v.py --root_dir /path/to/data/e2v_public --bs 2
 
 ```
 Tested in ubuntu 18.04.4 LTS 
