@@ -18,7 +18,7 @@ Event to video reconstruction with spade module
 This repository contains the CODE for the paper:SPADE-E2VID: ![Spatially-Adaptive Denormalization for Event-Based Video Reconstruction](https://www.researchgate.net/publication/348821777_SPADE-E2VID_Spatially-Adaptive_Denormalization_for_Event-based_Video_Reconstruction)<br>. 
 SPADE_E2VID uses a ConvLSTM and SPADE layers to reconstruct event-based videos. Our model compared with E2VID, have better reconstruction quality in early frames also has better contrast for all the reconstructios. We provide the code for training and testing.
 
-![Video](https://www.youtube.com/watch?v=Dk1L0LeF7jQ)
+[![Video](https://github.com/RodrigoGantier/SPADE_E2VID/blob/master/res/spade-e2vid.png)](https://www.youtube.com/watch?v=Dk1L0LeF7jQ)<br>
 
 ![SPADE_E2VID vs E2VID](https://github.com/RodrigoGantier/SPADE_E2VID/blob/master/res/compare.gif)<br>
 A comparizon for SPADE_E2VID (our model) and E2VID.<br>
