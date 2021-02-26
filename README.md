@@ -1,5 +1,18 @@
 SPADE_E2VID
 =============================
+This repository contains the source code for the paper: SPADE-E2VID: ![Spatially-Adaptive Denormalization for Event-Based Video Reconstruction](https://www.researchgate.net/publication/348821777_SPADE-E2VID_Spatially-Adaptive_Denormalization_for_Event-based_Video_Reconstruction)
+
+![Video](https://www.youtube.com/watch?v=Dk1L0LeF7jQ)
+
+@article{cadena2021spade,
+  title={SPADE-E2VID: Spatially-Adaptive Denormalization for Event-Based Video Reconstruction},
+  author={Cadena, Pablo Rodrigo Gantier and Qian, Yeqiang and Wang, Chunxiang and Yang, Ming},
+  journal={IEEE Transactions on Image Processing},
+  volume={30},
+  pages={2488--2500},
+  year={2021},
+  publisher={IEEE}
+}
 
 Event to video reconstruction with spade module
 
