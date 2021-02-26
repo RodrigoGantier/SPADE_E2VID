@@ -1,18 +1,6 @@
 SPADE_E2VID
 =============================
-This repository contains the source code for the paper: SPADE-E2VID: ![Spatially-Adaptive Denormalization for Event-Based Video Reconstruction](https://www.researchgate.net/publication/348821777_SPADE-E2VID_Spatially-Adaptive_Denormalization_for_Event-based_Video_Reconstruction)
 
-![Video](https://www.youtube.com/watch?v=Dk1L0LeF7jQ)
-
-@article{cadena2021spade,
-  title={SPADE-E2VID: Spatially-Adaptive Denormalization for Event-Based Video Reconstruction},
-  author={Cadena, Pablo Rodrigo Gantier and Qian, Yeqiang and Wang, Chunxiang and Yang, Ming},
-  journal={IEEE Transactions on Image Processing},
-  volume={30},
-  pages={2488--2500},
-  year={2021},
-  publisher={IEEE}
-}
 
 Event to video reconstruction with spade module
 
@@ -27,8 +15,10 @@ Event to video reconstruction with spade module
 
 ## Overview
 
-This repository contains the CODE for SPADE_E2VID. SPADE_E2VID uses a ConvLSTM and SPADE layers to reconstruct event-based videos. Our model compared with E2VID, have better reconstruction quality in early frames also has better contrast for all the reconstructios. We provide the code for training and testing.
+This repository contains the CODE for the paper:SPADE-E2VID: ![Spatially-Adaptive Denormalization for Event-Based Video Reconstruction](https://www.researchgate.net/publication/348821777_SPADE-E2VID_Spatially-Adaptive_Denormalization_for_Event-based_Video_Reconstruction)<br>. 
+SPADE_E2VID uses a ConvLSTM and SPADE layers to reconstruct event-based videos. Our model compared with E2VID, have better reconstruction quality in early frames also has better contrast for all the reconstructios. We provide the code for training and testing.
 
+![Video](https://www.youtube.com/watch?v=Dk1L0LeF7jQ)
 
 ![SPADE_E2VID vs E2VID](https://github.com/RodrigoGantier/SPADE_E2VID/blob/master/res/compare.gif)<br>
 A comparizon for SPADE_E2VID (our model) and E2VID.<br>
@@ -133,4 +123,16 @@ The Training dataset can be downkiad fron [this](https://drive.google.com/file/d
 
 * NOTE: All the data is about 17.1 GB
 
+## Citation:
 
+```
+@article{cadena2021spade,
+  title={SPADE-E2VID: Spatially-Adaptive Denormalization for Event-Based Video Reconstruction},
+  author={Cadena, Pablo Rodrigo Gantier and Qian, Yeqiang and Wang, Chunxiang and Yang, Ming},
+  journal={IEEE Transactions on Image Processing},
+  volume={30},
+  pages={2488--2500},
+  year={2021},
+  publisher={IEEE}
+}
+```
